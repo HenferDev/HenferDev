@@ -15,10 +15,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 📊 En progreso:
--Desarollo web con JavaScript
+
 - Desarrollo de sistemas web
 - Proyectos backend con Python
--Proyectos backend con NodeJs 
+- Proyectos backend con NodeJs 
 - Aplicaciones y sistemas reales para negocios
 
 🎯 Objetivo:
