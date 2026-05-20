@@ -15,9 +15,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 📊 En progreso:
+-Desarollo web con JavaScript
 - Desarrollo de sistemas web
 - Proyectos backend con Python
-- Aplicaciones reales para negocios
+-Proyectos backend con NodeJs 
+- Aplicaciones y sistemas reales para negocios
 
 🎯 Objetivo:
 Convertirme en desarrollador freelance y crear sistemas útiles para empresas.
