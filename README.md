@@ -9,6 +9,9 @@
 - Python
 - MySQL
 - Git & GitHub
+- ## 🛠 Herramientas
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
 
 ### 📊 En progreso:
 - Desarrollo de sistemas web
