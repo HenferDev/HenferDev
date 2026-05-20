@@ -18,11 +18,7 @@
 - Desarrollo de sistemas web
 - Proyectos backend con Python
 - Aplicaciones reales para negocios
-
-  ## 💻 Most Used Languages
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenferDev&layout=compact)
-
+- 
 🎯 Objetivo:
 Convertirme en desarrollador freelance y crear sistemas útiles para empresas.
 
