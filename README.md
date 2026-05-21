@@ -17,9 +17,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" width="55px" />
 </div>
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HenferDev&show_icons=true)
-
-
 📊 En progreso:
 
 - Desarrollo de sistemas web
