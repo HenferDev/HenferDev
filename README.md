@@ -33,7 +33,7 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/tuusuario">
+  <a href="https://github.com/HenferDev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenferDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenferDev&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
@@ -41,8 +41,3 @@
 
 ---
 
-## 🚀 Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,python,flask,django,mysql,git,github,vscode" />
-</p>
