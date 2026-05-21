@@ -14,6 +14,7 @@
   <img src="https://iconic-api.onrender.com/dark/mysql" width="55px" />
   <img src="https://iconic-api.onrender.com/dark/git" width="55px" />
   <img src="https://iconic-api.onrender.com/dark/github" width="55px" />
+    <img src="https://skillicons.dev/icons?i=nestjs" width="55px" />
 </div>
 
 📊 En progreso:
