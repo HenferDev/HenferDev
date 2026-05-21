@@ -4,16 +4,16 @@
 
 🚀 Tecnologías
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
+<div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
+  <img src="https://iconic-api.onrender.com/dark/python" width="55px" />
+  <img src="https://iconic-api.onrender.com/dark/html" width="55px" />
+  <img src="https://iconic-api.onrender.com/dark/css" width="55px" />
+  <img src="https://iconic-api.onrender.com/dark/js" width="55px" />
+  <img src="https://iconic-api.onrender.com/dark/nodejs" width="55px" />
+  <img src="https://iconic-api.onrender.com/dark/mysql" width="55px" />
+  <img src="https://iconic-api.onrender.com/dark/git" width="55px" />
+  <img src="https://iconic-api.onrender.com/dark/github" width="55px" />
+</div>
 
 📊 En progreso:
 
