@@ -2,9 +2,18 @@
 
 💻 Desarrollador en formación
 
-🚀 Tecnologías que estoy aprendiendo:
+🚀 Tecnologías
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,flask,mysql,git,github" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
 
 📊 En progreso:
 
