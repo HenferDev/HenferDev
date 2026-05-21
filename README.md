@@ -17,6 +17,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" width="55px" />
 </div>
 
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HenferDev&show_icons=true)
+
 
 📊 En progreso:
 
@@ -26,5 +28,6 @@
 - Aplicaciones y sistemas reales para negocios
 
 🎯 Objetivo:
-Convertirme en desarrollador freelance y crear sistemas útiles para empresas.
+
+- Convertirme en desarrollador freelance y crear sistemas útiles para empresas.
 ---
