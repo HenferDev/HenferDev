@@ -16,9 +16,9 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/django/44B78B" width="45"/>
-  <img src="https://cdn.simpleicons.org/flask" width="45"/>
+  <img src="https://cdn.simpleicons.org/flask/000000" width="45"/>
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="45"/>
-  <img src="https://cdn.simpleicons.org/express" width="45"/>
+  <img src="https://cdn.simpleicons.org/express/000000" width="45"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="45"/>
 </p>
 
@@ -27,7 +27,7 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45"/>
   <img src="https://cdn.simpleicons.org/git/F05032" width="45"/>
-  <img src="https://cdn.simpleicons.org/github" width="45"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="45"/>
 </p>
 
 ## Actualmente
