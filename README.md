@@ -5,6 +5,8 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
 ---
 ## Tecnologías
 
+## Tecnologías
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
@@ -15,9 +17,21 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" alt="Flask"/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/flask/000000">
+    <img src="https://cdn.simpleicons.org/flask/000000" width="45" alt="Flask"/>
+  </picture>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" alt="Express"/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
+    <img src="https://cdn.simpleicons.org/express/000000" width="45" alt="Express"/>
+  </picture>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>
 </p>
 
@@ -26,10 +40,13 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+    <img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub"/>
+  </picture>
 </p>
-
-
 ## Actualmente
 
 - Desarrollo de aplicaciones web.
