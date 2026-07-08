@@ -6,31 +6,29 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
 
 ## Tecnologías
 
-<div align="center">
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="45"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="45"/>
+  <img src="https://cdn.simpleicons.org/css/1572B6" width="45"/>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="45"/>
+</p>
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="45" />
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" />
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="45" />
-<img src="https://cdn.simpleicons.org/css/1572B6" width="45" />
-<img src="https://cdn.simpleicons.org/fastapi/009688" width="45" />
+<p align="center">
+  <img src="https://cdn.simpleicons.org/django/44B78B" width="45"/>
+  <img src="https://cdn.simpleicons.org/flask" width="45"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="45"/>
+  <img src="https://cdn.simpleicons.org/express" width="45"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="45"/>
+</p>
 
-<br><br>
-
-<img src="https://cdn.simpleicons.org/django/44B78B" width="45" />
-<img src="https://cdn.simpleicons.org/flask" width="45" />
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="45" />
-<img src="https://cdn.simpleicons.org/express" width="45" />
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="45" />
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45" />
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45" />
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" />
-<img src="https://cdn.simpleicons.org/git/F05032" width="45" />
-<img src="https://cdn.simpleicons.org/github" width="45" />
-
-</div>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="45"/>
+  <img src="https://cdn.simpleicons.org/github" width="45"/>
+</p>
 
 ## Actualmente
 
