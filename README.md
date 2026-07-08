@@ -7,11 +7,12 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
 ## Tecnologías
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,fastapi,django,flask,nodejs,express&perline=9"/>
-</p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind,postgres,mysql,git,github&perline=6"/>
+<img src="https://cdn.simpleicons.org/python/white" width="45"/>
+<img src="https://cdn.simpleicons.org/javascript/white" width="45"/>
+<img src="https://cdn.simpleicons.org/react/white" width="45"/>
+...
+
 </p>
 
 ## Actualmente
