@@ -6,10 +6,6 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
 
 ## Tecnologías
 
-## Tecnologías
-
-## Tecnologías
-
 <p align="center">
 
 <img src="https://techicons.dev/icons/python.svg" width="50" height="50" title="Python"/>
