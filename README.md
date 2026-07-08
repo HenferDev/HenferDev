@@ -6,31 +6,39 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
 
 ## Tecnologías
 
-<div align="center">
+## Tecnologías
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="45"/>
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45"/>
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="45"/>
-<img src="https://cdn.simpleicons.org/css/1572B6" width="45"/>
-<img src="https://cdn.simpleicons.org/fastapi/009688" width="45"/>
+<p align="center">
+  <span>
+    <img src="https://cdn.simpleicons.org/python/3776AB" width="45"/>
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45"/>
+    <img src="https://cdn.simpleicons.org/html5/E34F26" width="45"/>
+    <img src="https://cdn.simpleicons.org/css/1572B6" width="45"/>
+    <img src="https://cdn.simpleicons.org/fastapi/009688" width="45"/>
+  </span>
 
-<br><br>
+  <br><br>
 
-<img src="https://cdn.simpleicons.org/django/44B78B" width="45"/>
-<img src="https://cdn.simpleicons.org/flask/000000" width="45"/>
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="45"/>
-<img src="https://cdn.simpleicons.org/express/000000" width="45"/>
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="45"/>
+  <span>
+    <img src="https://cdn.simpleicons.org/django/44B78B" width="45"/>
+    <img src="https://cdn.simpleicons.org/flask/FFFFFF" width="45"/>
+    <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="45"/>
+    <img src="https://cdn.simpleicons.org/express/FFFFFF" width="45"/>
+    <img src="https://cdn.simpleicons.org/react/61DAFB" width="45"/>
+  </span>
 
-<br><br>
+  <br><br>
 
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45"/>
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45"/>
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="45"/>
-<img src="https://cdn.simpleicons.org/git/F05032" width="45"/>
-<img src="https://cdn.simpleicons.org/github/181717" width="45"/>
+  <span>
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45"/>
+    <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45"/>
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45"/>
+    <img src="https://cdn.simpleicons.org/git/F05032" width="45"/>
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45"/>
+  </span>
+</p>
 
-</div>
+
 ## Actualmente
 
 - Desarrollo de aplicaciones web.
