@@ -7,29 +7,27 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
 ## Tecnologías
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/>
 
-<img src="https://techicons.dev/icons/python.svg" width="50" height="50" title="Python"/>
-<img src="https://techicons.dev/icons/javascript.svg" width="50" height="50" title="JavaScript"/>
-<img src="https://techicons.dev/icons/html5.svg" width="50" height="50" title="HTML5"/>
-<img src="https://techicons.dev/icons/css3.svg" width="50" height="50" title="CSS3"/>
-<img src="https://techicons.dev/icons/fastapi.svg" width="50" height="50" title="FastAPI"/>
+  <br>
 
-<br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
 
-<img src="https://techicons.dev/icons/django.svg" width="50" height="50" title="Django"/>
-<img src="https://techicons.dev/icons/flask.svg" width="50" height="50" title="Flask"/>
-<img src="https://techicons.dev/icons/nodejs.svg" width="50" height="50" title="Node.js"/>
-<img src="https://techicons.dev/icons/express.svg" width="50" height="50" title="Express"/>
-<img src="https://techicons.dev/icons/react.svg" width="50" height="50" title="React"/>
+  <br>
 
-<br><br>
-
-<img src="https://techicons.dev/icons/tailwindcss.svg" width="50" height="50" title="Tailwind CSS"/>
-<img src="https://techicons.dev/icons/postgresql.svg" width="50" height="50" title="PostgreSQL"/>
-<img src="https://techicons.dev/icons/mysql.svg" width="50" height="50" title="MySQL"/>
-<img src="https://techicons.dev/icons/git.svg" width="50" height="50" title="Git"/>
-<img src="https://techicons.dev/icons/github.svg" width="50" height="50" title="GitHub"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
 
 ## Actualmente
