@@ -5,46 +5,16 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
 ---
 ## Tecnologías
 
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" alt="Django"/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/flask/000000">
-    <img src="https://cdn.simpleicons.org/flask/000000" width="45" alt="Flask"/>
-  </picture>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
-    <img src="https://cdn.simpleicons.org/express/000000" width="45" alt="Express"/>
-  </picture>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,react&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-    <img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=tailwind,postgres,mysql,git,github&theme=dark" />
 </p>
 
 ## Actualmente
