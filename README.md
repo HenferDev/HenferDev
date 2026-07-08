@@ -3,49 +3,32 @@
 Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, desarrollo web y Cloud/DevOps. Actualmente desarrollo proyectos enfocados en la creación de aplicaciones y sistemas que resuelvan necesidades reales, mientras continúo fortaleciendo mis conocimientos en tecnologías modernas y buenas prácticas de desarrollo.
 
 ---
-
 ## Tecnologías
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="45"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45"/>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="45"/>
-  <img src="https://cdn.simpleicons.org/css/1572B6" width="45"/>
-  <img src="https://cdn.simpleicons.org/fastapi/009688" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI"/>
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/django/44B78B" width="45"/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/flask/000000">
-    <img alt="Flask" src="https://cdn.simpleicons.org/flask/000000" width="45">
-  </picture>
-
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="45"/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
-    <img alt="Express" src="https://cdn.simpleicons.org/express/000000" width="45">
-  </picture>
-
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="45"/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-    <img alt="GitHub" src="https://cdn.simpleicons.org/github/181717" width="45">
-  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
 </p>
+
 
 ## Actualmente
 
