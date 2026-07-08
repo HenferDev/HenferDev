@@ -8,27 +8,25 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
 
 <p align="center">
 
-<img src="https://techicons.dev/icons/python.svg" width="50" height="50" title="Python"/>
-<img src="https://techicons.dev/icons/javascript.svg" width="50" height="50" title="JavaScript"/>
-<img src="https://techicons.dev/icons/html5.svg" width="50" height="50" title="HTML5"/>
-<img src="https://techicons.dev/icons/css3.svg" width="50" height="50" title="CSS3"/>
-<img src="https://techicons.dev/icons/fastapi.svg" width="50" height="50" title="FastAPI"/>
+<img src="./assets/icons/python.svg" width="50" height="50"/>
+<img src="./assets/icons/javascript.svg" width="50" height="50"/>
+<img src="./assets/icons/html.svg" width="50" height="50"/>
+<img src="./assets/icons/css.svg" width="50" height="50"/>
+<img src="./assets/icons/fastapi.svg" width="50" height="50"/>
 
 <br><br>
 
-<img src="https://techicons.dev/icons/django.svg" width="50" height="50" title="Django"/>
-<img src="https://techicons.dev/icons/flask.svg" width="50" height="50" title="Flask"/>
-<img src="https://techicons.dev/icons/nodejs.svg" width="50" height="50" title="Node.js"/>
-<img src="https://techicons.dev/icons/express.svg" width="50" height="50" title="Express"/>
-<img src="https://techicons.dev/icons/react.svg" width="50" height="50" title="React"/>
+<img src="./assets/icons/django.svg" width="50" height="50"/>
+<img src="./assets/icons/flask.svg" width="50" height="50"/>
+<img src="./assets/icons/nodejs.svg" width="50" height="50"/>
+<img src="./assets/icons/react.svg" width="50" height="50"/>
 
 <br><br>
 
-<img src="https://techicons.dev/icons/tailwindcss.svg" width="50" height="50" title="Tailwind CSS"/>
-<img src="https://techicons.dev/icons/postgresql.svg" width="50" height="50" title="PostgreSQL"/>
-<img src="https://techicons.dev/icons/mysql.svg" width="50" height="50" title="MySQL"/>
-<img src="https://techicons.dev/icons/git.svg" width="50" height="50" title="Git"/>
-<img src="https://techicons.dev/icons/github.svg" width="50" height="50" title="GitHub"/>
+<img src="./assets/icons/postgresql.svg" width="50" height="50"/>
+<img src="./assets/icons/mysql.svg" width="50" height="50"/>
+<img src="./assets/icons/git.svg" width="50" height="50"/>
+<img src="./assets/icons/github.svg" width="50" height="50"/>
 
 </p>
 
