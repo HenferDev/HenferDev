@@ -1,4 +1,4 @@
-## 💫 About Me<br><br>🎓 Ingeniería en Sistemas de Información.<br><br>💻 Me apasiona el desarrollo de software y la creación de soluciones web.<br><br>📚 Actualmente fortaleciendo mis conocimientos en las tecnologías que forman parte de mi stack, para seguir desarrollando aplicaciones más robustas y escalables. y aplicando buenas prácticas de programación.
+## 💫 About Me<br><br>🎓 Ingeniería en Sistemas de Información.<br><br>💻 Me apasiona el desarrollo de software y la creación de soluciones web.<br><br>📚 Actualmente fortaleciendo mis conocimientos en las tecnologías que forman parte de mi stack, para seguir desarrollando aplicaciones más robustas y escalables y aplicando buenas prácticas de programación.
 
 
 ## 🌐 Socials:
