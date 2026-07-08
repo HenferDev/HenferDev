@@ -8,6 +8,8 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
 
 ## Tecnologías
 
+## Tecnologías
+
 <p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python" />
