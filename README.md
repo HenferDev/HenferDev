@@ -8,25 +8,21 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
 
 <p align="center">
 
-<img src="./assets/icons/python.svg" width="50" height="50"/>
-<img src="./assets/icons/javascript.svg" width="50" height="50"/>
-<img src="./assets/icons/html.svg" width="50" height="50"/>
-<img src="./assets/icons/css.svg" width="50" height="50"/>
-<img src="./assets/icons/fastapi.svg" width="50" height="50"/>
+<span style="display:inline-flex; align-items:center; justify-content:center; width:60px; height:60px;">
+<img src="https://cdn.simpleicons.org/python/3776AB" width="45"/>
+</span>
 
-<br><br>
+<span style="display:inline-flex; align-items:center; justify-content:center; width:60px; height:60px;">
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45"/>
+</span>
 
-<img src="./assets/icons/django.svg" width="50" height="50"/>
-<img src="./assets/icons/flask.svg" width="50" height="50"/>
-<img src="./assets/icons/nodejs.svg" width="50" height="50"/>
-<img src="./assets/icons/react.svg" width="50" height="50"/>
+<span style="display:inline-flex; align-items:center; justify-content:center; width:60px; height:60px;">
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="45"/>
+</span>
 
-<br><br>
-
-<img src="./assets/icons/postgresql.svg" width="50" height="50"/>
-<img src="./assets/icons/mysql.svg" width="50" height="50"/>
-<img src="./assets/icons/git.svg" width="50" height="50"/>
-<img src="./assets/icons/github.svg" width="50" height="50"/>
+<span style="display:inline-flex; align-items:center; justify-content:center; width:60px; height:60px;">
+<img src="https://cdn.simpleicons.org/css/1572B6" width="45"/>
+</span>
 
 </p>
 
