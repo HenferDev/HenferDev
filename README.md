@@ -5,7 +5,6 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
 ---
 ## Tecnologías
 
-## Tecnologías
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
@@ -47,6 +46,7 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
     <img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub"/>
   </picture>
 </p>
+
 ## Actualmente
 
 - Desarrollo de aplicaciones web.
