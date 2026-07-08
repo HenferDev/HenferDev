@@ -1,13 +1,21 @@
+# Hensser Díaz
 
-
-Estudiante de Ingeniería en Sistemas apasionado por el desarrollo backend y la creación de aplicaciones web. Actualmente me enfoco en desarrollar proyectos que resuelvan problemas reales mientras continúo fortaleciendo mis conocimientos en desarrollo de software, Cloud y DevOps.
+Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, desarrollo web y Cloud/DevOps. Actualmente desarrollo proyectos enfocados en la creación de aplicaciones y sistemas que resuelvan necesidades reales, mientras continúo fortaleciendo mis conocimientos en tecnologías modernas y buenas prácticas de desarrollo.
 
 ---
 
 ## Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,fastapi,django,flask,nodejs,express,react,tailwind,postgres,mysql,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,fastapi,django,flask,nodejs,express&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,postgres,mysql,html,css&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github&perline=2" />
 </p>
 
 ---
@@ -16,15 +24,22 @@ Estudiante de Ingeniería en Sistemas apasionado por el desarrollo backend y la 
 
 - Desarrollo de aplicaciones web.
 - Desarrollo de APIs con Python y JavaScript.
-- Construcción de sistemas para necesidades reales.
-- Aprendizaje continuo en Cloud y DevOps.
+- Creación de sistemas orientados a resolver necesidades reales.
+- Fortaleciendo conocimientos en Cloud y DevOps.
 
 ---
 
-## Estadísticas de GitHub
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HenferDev&show_icons=true&theme=github_dark&hide_border=true"/>
+## Proyectos Destacados
 
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HenferDev&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-</p>
+Próximamente compartiré aquí algunos de mis proyectos más importantes.
+
+- Sistema de gestión para negocios.
+- APIs REST con FastAPI y Flask.
+- Aplicaciones web con React y Node.js.
+- Proyectos académicos y personales.
+
+---
+
+## Contacto
+
+- GitHub: **github.com/HenferDev**
