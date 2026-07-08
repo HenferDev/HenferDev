@@ -46,3 +46,15 @@ Próximamente compartiré aquí algunos de mis proyectos más importantes.
 - APIs REST con FastAPI y Flask.
 - Aplicaciones web con React y Node.js.
 - Proyectos académicos y personales.
+
+  <p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=HenferDev&theme=dark&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HenferDev&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HenferDev&layout=compact&theme=dark" />
+</p>
