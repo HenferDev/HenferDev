@@ -8,29 +8,31 @@ Estudiante de Ingeniería en Sistemas con interés en el desarrollo backend, des
 
 ## Tecnologías
 
+## Tecnologías
+
 <p align="center">
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="50" title="Python"/>
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" title="JavaScript"/>
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="50" title="HTML5"/>
-<img src="https://cdn.simpleicons.org/css/1572B6" width="50" title="CSS3"/>
-<img src="https://cdn.simpleicons.org/fastapi/009688" width="50" title="FastAPI"/>
+<img src="https://techicons.dev/icons/python.svg" width="50" height="50" title="Python"/>
+<img src="https://techicons.dev/icons/javascript.svg" width="50" height="50" title="JavaScript"/>
+<img src="https://techicons.dev/icons/html5.svg" width="50" height="50" title="HTML5"/>
+<img src="https://techicons.dev/icons/css3.svg" width="50" height="50" title="CSS3"/>
+<img src="https://techicons.dev/icons/fastapi.svg" width="50" height="50" title="FastAPI"/>
 
 <br><br>
 
-<img src="https://cdn.simpleicons.org/django/092E20" width="50" title="Django"/>
-<img src="https://cdn.simpleicons.org/flask/FFFFFF" width="50" title="Flask"/>
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" title="Node.js"/>
-<img src="https://cdn.simpleicons.org/express/FFFFFF" width="50" title="Express"/>
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="50" title="React"/>
+<img src="https://techicons.dev/icons/django.svg" width="50" height="50" title="Django"/>
+<img src="https://techicons.dev/icons/flask.svg" width="50" height="50" title="Flask"/>
+<img src="https://techicons.dev/icons/nodejs.svg" width="50" height="50" title="Node.js"/>
+<img src="https://techicons.dev/icons/express.svg" width="50" height="50" title="Express"/>
+<img src="https://techicons.dev/icons/react.svg" width="50" height="50" title="React"/>
 
 <br><br>
 
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" title="Tailwind CSS"/>
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="50" title="PostgreSQL"/>
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="50" title="MySQL"/>
-<img src="https://cdn.simpleicons.org/git/F05032" width="50" title="Git"/>
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" title="GitHub"/>
+<img src="https://techicons.dev/icons/tailwindcss.svg" width="50" height="50" title="Tailwind CSS"/>
+<img src="https://techicons.dev/icons/postgresql.svg" width="50" height="50" title="PostgreSQL"/>
+<img src="https://techicons.dev/icons/mysql.svg" width="50" height="50" title="MySQL"/>
+<img src="https://techicons.dev/icons/git.svg" width="50" height="50" title="Git"/>
+<img src="https://techicons.dev/icons/github.svg" width="50" height="50" title="GitHub"/>
 
 </p>
 
