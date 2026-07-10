@@ -11,10 +11,13 @@
 
 
 # 💻 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,nodejs,express,fastapi,django,flask,mysql,git,github" />
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,nodejs,express)](https://skillicons.dev)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" title="Oracle Database"/>
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,django,flask,mysql,oracle,mssql,git,github)](https://skillicons.dev)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" title="Microsoft SQL Server"/>
+</p>
 
 # 📊 GitHub Stats
 
