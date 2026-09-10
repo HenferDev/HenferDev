@@ -34,9 +34,9 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenferDev&show_icons=true&theme=dark&hide_border=true)
+![](https://github-readme-stats.shion.dev/api?username=HenferDev&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenferDev&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HenferDev&theme=dark&hide_border=true&layout=compact&langs_count=8)
 ---
 
 [![](https://komarev.com/ghpvc/?username=HenferDev&icon=0&color=0)](https://visitcount.itsvg.in)
