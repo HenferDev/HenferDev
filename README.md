@@ -35,9 +35,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=HenferDev&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HenferDev&layout=compact" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=HenferDev&show_icons=true&include_all_commits=true&theme=aura_dark"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=HenferDev&layout=compact&langs_count=8&theme=aura_dark"
+    height="180"
+  />
 </p>
