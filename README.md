@@ -32,11 +32,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" title="Docker"/>
 </p>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=HenferDev&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=HenferDev&show_icons=true" />
+</p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HenferDev&theme=dark&hide_border=true&layout=compact&langs_count=8)
----
-
-[![](https://komarev.com/ghpvc/?username=HenferDev&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HenferDev&layout=compact" />
+</p>
