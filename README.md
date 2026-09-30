@@ -35,43 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="45" height="45" title="NestJS"/>
 </p>
 
-### Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-       width="45" height="45" title="Django"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-       width="45" height="45" title="FastAPI"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-       width="45" height="45" title="Node.js"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-       width="45" height="45" title="Express"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
-       width="45" height="45" title="NestJS"/>
-</p>
-
-### Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-       width="45" height="45" title="Git"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-       width="45" height="45" title="GitHub"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-       width="45" height="45" title="Docker"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-       width="45" height="45" title="VS Code"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
-       width="45" height="45" title="DBeaver"/>
-</p>
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
