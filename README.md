@@ -10,59 +10,67 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:henferosa@gmail.com)
 
 # 💻 Tech Stack
+
+# 💻 Tech Stack
+
 ### Languages
+
 <p>
-  <img src="https://cdn.simpleicons.org/python" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript" width="45" height="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/html5" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css" width="45" height="45" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3"/>
 </p>
 
 ### Frontend
+
 <p>
-  <img src="https://cdn.simpleicons.org/react" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React" title="React"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="45" height="45" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS"/>
 </p>
 
 ### Backend
+
 <p>
-  <img src="https://cdn.simpleicons.org/django" width="45" height="45" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" height="45" alt="Django" title="Django"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi" width="45" height="45" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" title="FastAPI"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" title="Node.js"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express" width="45" height="45" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" height="45" alt="Express" title="Express"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nestjs" width="45" height="45" alt="NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS" title="NestJS"/>
 </p>
 
 ### Databases
+
 <p>
-  <img src="https://cdn.simpleicons.org/postgresql" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="45" height="45" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" alt="SQL Server" title="SQL Server"/>
 </p>
 
 ### Tools
+
 <p>
-  <img src="https://cdn.simpleicons.org/git" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker" width="45" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode" width="45" height="45" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/dbeaver" width="45" height="45" alt="DBeaver"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="45" height="45" alt="DBeaver" title="DBeaver"/>
 </p>
 
 ## 📊 GitHub Stats
