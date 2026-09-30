@@ -12,49 +12,60 @@
 # 💻 Tech Stack
 
 ### Languages
-
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/python" width="45" height="45" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript" width="45" height="45" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript" width="45" height="45" alt="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5" width="45" height="45" alt="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css" width="45" height="45" alt="CSS"/>
 </p>
 
 ### Frontend
-
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/react" width="45" height="45" alt="React"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="45" height="45" alt="Tailwind CSS"/>
 </p>
 
 ### Backend
-
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/django" width="45" height="45" alt="Django"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi" width="45" height="45" alt="FastAPI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="45" height="45" alt="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express" width="45" height="45" alt="Express"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nestjs" width="45" height="45" alt="NestJS"/>
 </p>
 
 ### Databases
-
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/postgresql" width="45" height="45" alt="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql" width="45" height="45" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="45" height="45" alt="SQL Server"/>
 </p>
 
 ### Tools
-
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/git" width="45" height="45" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github" width="45" height="45" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker" width="45" height="45" alt="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode" width="45" height="45" alt="VS Code"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/dbeaver" width="45" height="45" alt="DBeaver"/>
 </p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
