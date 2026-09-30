@@ -13,27 +13,27 @@
 
 ### Languages
 <p>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=python,javascript,typescript,html,css&theme=light" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=python,javascript,typescript,html,css&theme=dark" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=react,tailwindcss&theme=light" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=react,tailwindcss&theme=dark" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=django,fastapi,nodejs,expressjs,nestjs&theme=light" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=django,fastapi,nodejs,expressjs,nestjs&theme=dark" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=postgresql,mysql,sqlserver&theme=light" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=postgresql,mysql,sqlserver&theme=dark" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=git,github,docker,vscode,dbeaver&theme=light" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=git,github,docker,vscode,dbeaver&theme=dark" />
 </p>
 
 ## 📊 GitHub Stats
